@@ -1,0 +1,4 @@
+ >> README.md git init
+git add README.md
+git commit -m "primeiro commit" git branch -M principal git remote add origin https://github.com/mhao0608/.git
+git push -u origin principal
